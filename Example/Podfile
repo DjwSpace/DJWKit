@@ -8,6 +8,7 @@ target 'DJWKit_Example' do
   target 'DJWKit_Tests' do
     inherit! :search_paths
 
+#xxx
     
   end
 end
