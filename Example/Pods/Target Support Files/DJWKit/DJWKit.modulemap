@@ -1,0 +1,6 @@
+framework module DJWKit {
+  umbrella header "DJWKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
